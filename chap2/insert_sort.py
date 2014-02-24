@@ -1,5 +1,3 @@
-import copy
-
 def insert_sort(numbers):
   if len(numbers) <= 1:
     return numbers
