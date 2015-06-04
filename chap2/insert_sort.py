@@ -18,5 +18,5 @@ def insert_sort(numbers, noDecre=True):
 
 if __name__ == '__main__':
     numArray = [31, 41, 59, 26, 41, 58]
-    print insert_sort(numArray)
-    print insert_sort(numArray, False)
+    print(insert_sort(numArray))
+    print(insert_sort(numArray, False))
